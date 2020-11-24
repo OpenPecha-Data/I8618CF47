@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18339
   title: གསུང་འབུམ། བློ་གྲོས་རྒྱ་མཚོ།
-  volume: ''
+  volume:
+    d100228c72714cafa8c5b3ea67d9bbdb:
+      image_group_id: I8LS18344
+      title: Volume 1 of gsung 'bum/ blo gros rgya mtsho/
+      volume_number: 1
+      total_pages: 560
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། བློ་གྲོས་རྒྱ་མཚོ།
+  author: ''
+  sku: P000500
+  cover: cover.jpg
+  layers:
+  - pagination
